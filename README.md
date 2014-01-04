@@ -1,6 +1,6 @@
 Basic x86 Assembly I/O for Linux
 
-Contained within io.asm are 3 functions for read/write to and from stdin and stdout.
+Contained within io.asm are functions to read from stdin, and write to stdout.
 
 example.asm provides an example of how to use these functions.
 
